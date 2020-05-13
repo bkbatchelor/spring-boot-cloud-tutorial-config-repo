@@ -2,7 +2,7 @@ server:
   port: 8083
 spring:
   application:
-    name: edge-server
+    name: config-edge-server
   profiles:
     active: dev
 eureka:
